@@ -1,2 +1,2 @@
 # GitHubの練習
-(TechTrain)[https://techbowl.co.jp/techtrain/mypage]の*めざせ！GitHubMaster*を実行するためのリポジトリです。
+このリポジトリは、[TechTrain](https://techbowl.co.jp/techtrain/mypage)の*めざせ！GitHubMaster*を演習するためのリポジトリです。
